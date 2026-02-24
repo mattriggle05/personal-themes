@@ -422,10 +422,18 @@
       }
     },
     {
+      "name": "Rust function tags",
+      "scope": ["meta.attribute.rust"],
+      "settings": {
+        "foreground": "#e28d5c",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "User-defined constant",
       "scope": ["constant.character", "constant.other"],
       "settings": {
-        "foreground": "#67fff7"
+        "foreground": "#90e1e4"
       }
     },
     {
@@ -509,14 +517,6 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "foreground": "#c5e478"
-      }
-    },
-    {
-      "name": "Function name",
-      "scope": "entity.name.function",
-      "settings": {
-        "foreground": "#c792ea",
-        "fontStyle": "italic"
       }
     },
     {
@@ -853,7 +853,7 @@
       "scope": ["entity.name.function"],
       "settings": {
         "foreground": "#82AAFF",
-        "fontStyle": "italic"
+        "fontStyle": "bold"
       }
     },
     {
