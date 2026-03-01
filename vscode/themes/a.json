@@ -1,7 +1,7 @@
 {
   "tokenColors": [
   {
-    "name": "#d6deeb",
+    "name": "aa#d6deeb",
     "settings": {
       "foreground": "#d6deeb"
     },
