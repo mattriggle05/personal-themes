@@ -753,6 +753,8 @@
             "scope": [
                 "constant.numeric entity.name.type",
                 "constant.numeric",
+                "constant.numeric.decimal",
+                "keyword.operator.exponent",
                 "constant.character.numeric",
                 "storage.type.numeric",
                 "keyword.other.unit",
